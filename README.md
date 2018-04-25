@@ -1,6 +1,8 @@
-# Web-Scraping-and-Document-Databases
+# Mission to Mars
 
-The goal is to build a web application that scrapes data related to the Mission to Mars from the following websites:
+
+
+This web application scrapes data related to the Mission to Mars from the following websites:
 
 * https://mars.nasa.gov/news/?page=0&per_page=15&order=publish_date+desc%2Ccreated_at+desc&search=&category=19%2C165%2C184%2C204&blank_scope=Latest
 * https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars
